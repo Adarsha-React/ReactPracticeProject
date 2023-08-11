@@ -28,7 +28,7 @@ const Body = () => {
             }}
             className="bg-orange-600 rounded-md px-2 py-1 text-xs font-bold  hover:bg-gray-400"
           >
-            let variable
+            let variable_
           </button>
         </div>
 
