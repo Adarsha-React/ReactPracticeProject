@@ -2,9 +2,10 @@
   "name": "reactpractice",
   "version": "1.0.0",
   "description": "React Practice Project",
-  "main": "App.js",
+
   "scripts": {
     "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "author": "Adarsha",
