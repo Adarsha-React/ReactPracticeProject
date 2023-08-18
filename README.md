@@ -99,9 +99,3 @@ useFetch ➖
 ✔ It accepts any URL and returns data, loading status and error if it failed to fetch the data.
 
 ✔
-
-Keep learning 🙂
-
-Cheers,
-
-Adarsha 🚀
