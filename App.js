@@ -1,13 +1,17 @@
-import React from "react";
+import React, { useMemo, useState } from "react";
 import ReactDOM from "react-dom/client";
-import Header from "./src/components/Header";
-import Body from "./src/components/Body";
+import Memo from "./src/components/Memo";
+import Parent from "./src/components/Parent";
+import FetchData from "./src/components/FetchData";
+import Toggle from "./src/components/Toggle";
 
 const AppLayout = () => {
   return (
     <>
-      <Header />
-      <Body />
+      {/* <Memo /> */}
+      {/* <Parent /> */}
+      <FetchData />
+      <Toggle />
     </>
   );
 };
