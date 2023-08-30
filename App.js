@@ -6,6 +6,7 @@ import FetchData from "./src/components/FetchData";
 import Toggle from "./src/components/Toggle";
 import Debounce from "./src/components/Debounce";
 import TestUseEffect from "./src/components/TestUseEffect";
+import Sample from "./src/components/Sample";
 
 const AppLayout = () => {
   return (
@@ -15,7 +16,8 @@ const AppLayout = () => {
       {/* <FetchData />
       <Toggle /> */}
       {/* <Debounce /> */}
-      <TestUseEffect />
+      {/* <TestUseEffect /> */}
+      <Sample id={10} />
     </>
   );
 };
